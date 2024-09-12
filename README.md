@@ -52,8 +52,12 @@ cd ocean
 ```
 curl -O https://raw.githubusercontent.com/oceanprotocol/ocean-node/main/scripts/ocean-node-quickstart.sh && chmod +x ocean-node-quickstart.sh && ./ocean-node-quickstart.sh
 ``` 
-Watch the video to setup
 
+Watch the video to setup
+```
+ls -al
+```
+Edit using video
 ### Start your Ocean Node:
 ```
 docker-compose up -d
