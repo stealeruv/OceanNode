@@ -1,13 +1,10 @@
-# oc
-Incentivized Mainnet Node
+# Ocean Incentivized Node
 
 Meet Ocean: Tokenized AI & Data
 
-OCEAN NODES
-The tool to enhance your AI capabilities and make the most of your computational resources. Develop, train, and monetize your models efficiently on a secure, developer-friendly platform, compatible with both GPU and CPU.
 
-COMPUTE-TO-DATA
-Shift the computation towards the data instead, and not vice versa. Coupled with Data NFTs and Datatokens, users can remotely leverage machine learning and AI without relocating their assets, paving the way for novel revenue streams.
+**COMPUTE-TO-DATA**
+Shift the computation towards the data instead, and not vice versa. Coupled with Data NFTs and Datatokens, users can remotely leverage machine learning and AI without relocating their assets, paving the way for novel revenue streams. It enables people to sell private data while preserving privacy, as an opportunity for companies to monetize their data assets.
 
 Site : [Ocean](https://oceanprotocol.com/) | Docs : [Oceandocs](https://docs.oceanprotocol.com/Site) | X : [X.com](https://x.com/oceanprotocol) |
 
