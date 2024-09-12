@@ -57,7 +57,11 @@ Watch the video to setup
 ```
 ls -al
 ```
-Edit using video
+Edit **docker-compose.yml** using video
+```
+nano docker-compose.yml
+```
+
 ### Start your Ocean Node:
 ```
 docker-compose up -d
