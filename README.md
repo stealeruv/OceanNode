@@ -79,5 +79,5 @@ docker-compose logs -f
 
 Check Rewards : https://nodes.oceanprotocol.com/
 
-Join Disussion : [Crypro Coonsole Telegram](https://t.me/cryptoconsol)
+Join Disussion : [Crypto Console Telegram](https://t.me/cryptoconsol)
 
