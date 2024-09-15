@@ -61,6 +61,8 @@ Edit **docker-compose.yml** using video
 
 Alchemy RPC : https://dashboard.alchemy.com/
 
+Chainlist : https://chainlist.org/
+
 RPC File : https://t.me/cryptoconsol
 ```
 nano docker-compose.yml
