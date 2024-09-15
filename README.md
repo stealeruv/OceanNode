@@ -57,7 +57,7 @@ Watch the video to setup
 ```
 ls -al
 ```
-Edit **docker-compose.yml** using video
+Edit **docker-compose.yml** using video \n
 RPC File : https://t.me/cryptoconsol
 ```
 nano docker-compose.yml
