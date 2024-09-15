@@ -21,6 +21,8 @@ Follow : [Twitter](https://www.x.com/cryptoconsol)
 
 Subscribe : [Youtube](https://www.youtube.com/@cryptoconsole)
 
+Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
+
 
 ### Install dependencies :
 ```
@@ -58,6 +60,8 @@ Watch the video to setup
 ls -al
 ```
 Edit **docker-compose.yml** using video
+
+Alchemy RPC : https://dashboard.alchemy.com/
 
 RPC File : https://t.me/cryptoconsol
 ```
