@@ -77,5 +77,7 @@ docker-compose up -d
 docker-compose logs -f
 ```
 
-Join Disussion : [Telegram](https://t.me/cryptoconsol)
+Check Rewards : https://nodes.oceanprotocol.com/
+
+Join Disussion : [Crypro Coonsole Telegram](https://t.me/cryptoconsol)
 
