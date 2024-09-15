@@ -34,16 +34,14 @@ sudo apt install curl -y
 Skip if you already have it
 
 ```
-sudo apt install docker.io -y && \
-docker --version
+sudo apt update && sudo apt install -y curl && curl -fsSL https://get.docker.com -o get-docker.sh && sudo sh get-docker.sh
 ```
 ### Install Docker Compose :
 
 Skip if you already have it
 
 ```
-sudo apt install docker-compose -y && \
-docker-compose --version
+sudo curl -L "https://github.com/docker/compose/releases/download/$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep 'tag_name' | cut -d\" -f4)/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 ```
 ### Creat ocean folder :
 ```
