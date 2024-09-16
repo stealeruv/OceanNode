@@ -109,7 +109,7 @@ docker-compose up -d
 docker-compose logs -f
 ```
 
-Check peer ID : http://your_ip:8000/dashboard/ (change IP respective to your port)
+Check peer ID : change port respectively - http://your_ip:8000/dashboard/ 
 
 Check Rewards : https://nodes.oceanprotocol.com/
 
