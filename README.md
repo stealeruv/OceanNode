@@ -72,7 +72,6 @@ First time users
 ```
 sudo groupadd docker
 sudo usermod -aG docker $USER
-
 ```
 
 
