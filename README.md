@@ -34,7 +34,7 @@ Subscribe : [Youtube](https://www.youtube.com/@cryptoconsole)
 
 Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
 
-Youtube Guide : [Watch the Video](https://www.youtube.com/watch?v=7CMaBFgaTl8)
+Youtube Guide : [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7CMaBFgaTl8/0.jpg)](https://www.youtube.com/watch?v=7CMaBFgaTl8)
 
 ### Install dependencies :
 ```
