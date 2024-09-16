@@ -109,6 +109,8 @@ docker-compose up -d
 docker-compose logs -f
 ```
 
+Check peer ID : http://your_ip:8000/dashboard/ (change IP respective to your port)
+
 Check Rewards : https://nodes.oceanprotocol.com/
 
 Join Disussion : [Crypto Console Telegram](https://t.me/cryptoconsol)
