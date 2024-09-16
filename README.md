@@ -6,6 +6,16 @@ Meet Ocean: Tokenized AI & Data
 **COMPUTE-TO-DATA**
 Shift the computation towards the data instead, and not vice versa. Coupled with Data NFTs and Datatokens, users can remotely leverage machine learning and AI without relocating their assets, paving the way for novel revenue streams. It enables people to sell private data while preserving privacy, as an opportunity for companies to monetize their data assets.
 
+**Rewards Breakdown** :
+🚀 Ocean Noders, we give you the detailed incentive breakdown: [Rewards Link](https://blog.oceanprotocol.com/ocean-nodes-incentives-a-detailed-breakdown-0baf8fc98001)
+💻5,000 $FET/weekly reward pool, starting August 22
+
+🔑How to earn:
+
+→Maximize Uptime: Longer node activity = higher reward chances
+→Collect ONBs: Stack all 3 ONBs for 2x multipliers
+→Keep It Up: Consistent performance each week increases your earnings
+
 Site : [Ocean](https://oceanprotocol.com/) | Docs : [Oceandocs](https://docs.oceanprotocol.com/) | X : [X.com](https://x.com/oceanprotocol) |
 
 | **Hardware** | **Minimum Requirement** |
