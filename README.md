@@ -96,6 +96,9 @@ Alchemy RPC : https://dashboard.alchemy.com/
 Chainlist : https://chainlist.org/
 
 RPC File : https://t.me/cryptoconsol
+
+Ocean Faucet : https://faucet.sepolia.oceanprotocol.com/
+
 ```
 nano docker-compose.yml
 ```
