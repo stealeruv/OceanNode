@@ -8,6 +8,7 @@ Shift the computation towards the data instead, and not vice versa. Coupled with
 
 **Rewards Breakdown** :
 🚀 Ocean Noders, we give you the detailed incentive breakdown: [Rewards Link](https://blog.oceanprotocol.com/ocean-nodes-incentives-a-detailed-breakdown-0baf8fc98001)
+
 💻5,000 $FET/weekly reward pool, starting August 22
 
 🔑How to earn:
